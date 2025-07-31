@@ -56,7 +56,7 @@
 
 
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/soundeffects/images/1/1c/Madoka_Gif_1.gif/revision/latest/scale-to-width-down/1000?cb=20190422023749" alt="madoka clapping gif" width="300"/>
+  <img src="https://static.wikia.nocookie.net/soundeffects/images/1/1c/Madoka_Gif_1.gif/revision/latest/scale-to-width-down/1000?cb=20190422023749" alt="madoka clapping gif" width="600"/>
 </p>
 
 <!--
