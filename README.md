@@ -1,7 +1,7 @@
 <h1 align="center">hi ✨ i’m lily 🐇</h1>
 <h3 align="center">a front-end dev + product designer based in orlando, florida 🌴</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lsvrionis&label=✨%20profile%20views✨&color=ffb6c1&style=flat" alt="lsvrionis" /> </p>
+<p align="center">(designing for delight, building with intent)</p>
 
 ---
 
