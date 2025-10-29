@@ -1,19 +1,19 @@
-<h1 align="center">hi ✨ i’m lily 🐇</h1>
-<h3 align="center">a front-end dev + product designer based in orlando, florida 🌴</h3>
+<h1 align="center">hello! i’m lily 🌀</h1>
+<h3 align="center">a front-end dev + ui/ux designer based in orlando, florida</h3>
 
 <p align="center">(designing for delight, building with intent)</p>
 
 ---
 
-🌸 **about me** 🌸  
+🧿 **about me** 🧿  
 - 💻 i aspire to make things aesthetic with an emphasis on accessibility and day-to-day use
-- 🌐 check out my digital shrine → [lsvrionis.dev](https://www.lsvrionis.dev/)  
-- 📮 say hi: **lsvrionis@gmail.com**  
-- 🖋️ fun fact: one of my fanfics once blew up on tumblr (yes really)  
+- 🌐 check out my portfolio site → [lsvrionis.dev](https://www.lsvrionis.dev/)  
+- 📮 shoot me an email: **lsvrionis@gmail.com**  
+- 🖋️ fun fact: one of my fanfics once blew up on tumblr (yes, really!)  
 
 ---
 
-<h3 align="left">🌈 let’s connect ~</h3>
+<h3 align="left">🔷 let’s connect ~</h3>
 <p align="left">
   <a href="https://linkedin.com/in/lily-vrionis" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lily-vrionis" height="30" width="40" />
@@ -25,7 +25,7 @@
 
 ---
 
-<h3 align="left">🛠️ tools i vibe with:</h3>
+<h3 align="left">🛠️ tools i work with:</h3>
 <p align="left">
   <!-- example format -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="35" height="35" />
@@ -47,7 +47,7 @@
 
 ---
 
-<h3 align="left">☕ support me if you’d like 🖤</h3>
+<h3 align="left">☕ support me if you’d like 💙</h3>
 <p>
   <a href="https://ko-fi.com/lsvrionis">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="45" alt="buy me a coffee" />
@@ -56,7 +56,7 @@
 
 
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/soundeffects/images/1/1c/Madoka_Gif_1.gif/revision/latest/scale-to-width-down/1000?cb=20190422023749" alt="madoka clapping gif" width="600"/>
+  <img src="https://media.tenor.com/XcoJOlNDwA0AAAAM/madoka-magica-pmmm.gif" alt="sayaka coffee" width="300"/>
 </p>
 
 <!--
